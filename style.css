@@ -1,0 +1,60 @@
+body{
+    font-family:arial , sans-serif;
+	}
+	
+nav{
+  background-color:pink;
+  color: white;
+  padding: 10px;
+  margin:0px;
+  text-align:center;
+  lign-height: 10px;
+  font-size:30px;
+  }
+  
+  nav ul{
+  list-style-type: none;
+  margin:0px;
+  padding :40px;
+  color: red ;
+  }
+  
+  nav ul li{
+  list-style-type: none;
+  Display:inline;
+  font-size:20px;
+  margin-right: 100px;
+  color:grey;
+  }
+  
+  header{
+  text-align:centre;
+  background-color:yellow;
+  padding:30px;
+  margin-bottom: 100px;
+  }
+  
+  h1{
+	  color:pink;
+  }
+  
+  h2{
+	  color: yellow;
+  }
+  
+  p{
+	  color: yelloow;
+  }
+  
+  section{
+	  padding:20px:
+	  margin-bottom:1000px:
+  }
+  
+ #contact{
+	  background-color:GREY;
+	  padding:30px;
+	  margin: 0 :
+  }
+
+	
